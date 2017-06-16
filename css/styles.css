@@ -1,0 +1,35 @@
+.asdf {
+  font-size: 60px;
+  font-style: bold;
+  color: indigo;
+  background-image: url(../images/images1.jpg);
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+#welcome {
+  width: auto;
+  /*height: 250px;*/
+  text-shadow: 50px;
+}
+
+#displaydice {
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  height: 120px;
+}
+
+#main {
+  text-align: center;
+}
+
+body {
+  background-image: url(../images/images2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: red;
+}
